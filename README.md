@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a data analyst with experience in data analysis in python.
+I'm a data analyst with experience in data analysis in python.<br>
 I am currently learning more on topics that I enjoy:
 
 - Blockchain
