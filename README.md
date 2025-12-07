@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a data analyst with experience in data analysis in python.
+I am currently learning more on topics that I enjoy:
+
+- Blockchain
+- Gen AI & ML
+- Finance 
+
+Please view my work.
 <!--
 **kels-code/kels-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
